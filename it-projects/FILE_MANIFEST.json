@@ -144,6 +144,18 @@
       "bytes": 1512678,
       "sha256": "c1600f4d6065beeed6db94db88227f564c0e6c20c92baffb63eae051c12e30be",
       "context": "Существующий ресурс МедКарта"
+    },
+    {
+      "path": "deliverables/ai-copilot/Отчет_AI_копилот_ФинСервис_v2.docx",
+      "bytes": 961597,
+      "sha256": "4c7b424c9a5cc95540a479b377b3d3d25ed7b737d76ac48146c6acfc0af698f9",
+      "context": "Результат проекта AI-копилота, вторая редакция отчета (A4, 38 страниц)"
+    },
+    {
+      "path": "docs/REPORT_REVIEW_v2.md",
+      "bytes": 10484,
+      "sha256": "246d4d3d5241b866d9b585177d34db5de2dc85f3aeaa249a13d6ea650fbe867b",
+      "context": "Разбор первой редакции отчета и список изменений"
     }
   ]
 }
