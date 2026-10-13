@@ -1,0 +1,149 @@
+{
+  "snapshot_date": "2026-10-13",
+  "files": [
+    {
+      "path": "sources/Копия Семинар 10 [WsZ0M9].pdf",
+      "bytes": 296808,
+      "sha256": "6fa5d977820616dd87d656b21b9a22a5d781a96cebd25a582d65f030b8b029f8",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 11 приоритизация.pdf",
+      "bytes": 995809,
+      "sha256": "a6e83d011621bf23c0643021a0decbf8eab2ae4518b6b8870a7748b3c6fd54c1",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 12 [Q6UQIa].pdf",
+      "bytes": 924834,
+      "sha256": "2f3f1e274ff912715fcb8290427407693a0f392e9171cf25bc8fa0beac20326d",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 13 [oQYxqB].pdf",
+      "bytes": 799604,
+      "sha256": "e9f2bf1dde88f14a5a51e4a672c73e7a33652b3a0c8b9c1a6c6602089392d8a1",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 14.pdf",
+      "bytes": 998902,
+      "sha256": "0ad51c41c5c9d16500f4d28966119c384f2712ba839a84add2dfc64590e8508a",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 2.pdf",
+      "bytes": 103127,
+      "sha256": "40e432e557450a05c1bdc9a23cffecc2241826deec80a7a60a7b0fe57b153308",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 3 [LQ2kcM].pdf",
+      "bytes": 122031,
+      "sha256": "281248a11589698f6b82633cb6c121e6e433325c01041bbda301e0cf0518e5d9",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 4.pdf",
+      "bytes": 254770,
+      "sha256": "e0f7e0b9a5579d785c6c8f026b18014dbff0061d30cd4fa555c97ccf4b85c04b",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 6.pdf",
+      "bytes": 197356,
+      "sha256": "36344d92ccfc6597c16ee18ac0cd57bdee1b2a053f7b6dd57c52355c4e064003",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 7 отправка [mGZc8F].pdf",
+      "bytes": 305043,
+      "sha256": "231859ae6ed0bf7f4ac4ccdb7836dbb382d328c26cd29dfd1d6a5dbe488e01dd",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар 8 бюджет с заданиями [IcyalY].pdf",
+      "bytes": 287583,
+      "sha256": "3c3bed8789fe33608e70b83b719fb7d30e0cb3065aae284b54857543fce95c45",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия Семинар УИТП 9.pdf",
+      "bytes": 292488,
+      "sha256": "151ac9bdb2cd9d2fdf4516faaafb64017502de772eaeeec40dbc25e6e507e1d5",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Копия семинар 5.pdf",
+      "bytes": 406121,
+      "sha256": "b31768045442684778264c963992d8c22a451a6b45e67fa55ece155df8cf607d",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/УИТП_Рекомендации_по_разработке_и_защите_групповых_проектов.pdf",
+      "bytes": 140161,
+      "sha256": "a54f776577a7109fc6933f383b0ac1e5dd8194f99a8f9bf9437bdcdef705ed86",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "sources/Управление_проектами_3_изд_текст_сайт.pdf",
+      "bytes": 945637,
+      "sha256": "a9e96b8d17b19de8b05d589997b7ec4810537100dde9dbd3dbd2adf414a9220f",
+      "context": "Учебный источник, копия без изменений"
+    },
+    {
+      "path": "deliverables/ai-copilot/Отчет_AI_копилот_ФинСервис.docx",
+      "bytes": 1040329,
+      "sha256": "38e590398c6a2022ea3e4afe79fbb00d146eefa6efe36a9a71a2316a8a294144",
+      "context": "Результат проекта AI-копилота"
+    },
+    {
+      "path": "deliverables/ai-copilot/demo_ai_copilot.html",
+      "bytes": 70747,
+      "sha256": "3700cbf3d63a8bc7606ab519b2cad9c48b96a211562ca9182eeb66e385f8df90",
+      "context": "Результат проекта AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_единый_стиль_премиум.pptx",
+      "bytes": 1629207,
+      "sha256": "c5b2c426063e208e9f797eecc86c92b97f18d96c038edc1b2121fdc1fc210a5c",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_единый_стиль_премиум_v2.pptx",
+      "bytes": 1629341,
+      "sha256": "b01941c9123fdaea2c340d1973b52d8d8e92845c183b03950cae26b8f83fe8c5",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_единый_стиль_премиум_v3.pptx",
+      "bytes": 1629124,
+      "sha256": "355066fbef193f6b24b2528b1cbd0e6addaf653646b46344dffb7920063ccdd9",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_единый_стиль_премиум_v4.pptx",
+      "bytes": 1631025,
+      "sha256": "b26978b4a05f31db8cd46965556b2649bb7c941b0aaa62681eb1ae6629f03e8e",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_единый_стиль_премиум_v5.pptx",
+      "bytes": 1630996,
+      "sha256": "85cf6bd58ff08fa25d4262b056774f3538e08c6c9ac95d0b54c653560189bfa5",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/presentations/МедКарта_семинар_8_дополнено.pptx",
+      "bytes": 113416,
+      "sha256": "a94238d53cb81965d318948507b9ee706201853861d12898acff524e1c3cb9d8",
+      "context": "Существующий материал МедКарта; включен в снимок, содержание не проверялось в задаче AI-копилота"
+    },
+    {
+      "path": "other-project-materials/medkarta/assets/cover-clinic.png",
+      "bytes": 1512678,
+      "sha256": "c1600f4d6065beeed6db94db88227f564c0e6c20c92baffb63eae051c12e30be",
+      "context": "Существующий ресурс МедКарта"
+    }
+  ]
+}
